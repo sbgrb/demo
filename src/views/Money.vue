@@ -1,6 +1,8 @@
 <template>
   <div>
-    <Nav/>
+    <Layout>
+      你号没了
+    </Layout>
   </div>
 </template>
 
